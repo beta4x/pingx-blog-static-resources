@@ -1,2 +1,2 @@
-# MindCache-blog-links
-external links for my blog [MindCache.io](http://mindcache.io/)
+# pingx-blog-static-resources
+Static resources for my blog [PingX.sh](https://pingx.sh).
